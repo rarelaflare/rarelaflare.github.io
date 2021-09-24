@@ -1,0 +1,19 @@
+body{
+    background-color: oldlace ;
+    color: black;
+    /*border: 3px solid green; */
+}
+h3{
+    border: black dotted 5px;
+    width: 350px;
+    padding: 1px;
+    
+}
+
+.grid{
+    display: flex;
+    flex-wrap:wrap;
+    height: 300px;
+    width: 400px;
+    border: rgb(89, 27, 27) 5px solid;
+}
